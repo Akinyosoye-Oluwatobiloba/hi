@@ -1014,7 +1014,7 @@ const LandingPage = (props) => {
                       <div class="relative flex pl-10 flex-row w-90  h-11 border border-solid border-neutral-300 bg-slate-200 rounded-full px-3 py-1.5 text-base font-normal text-neutral-700 outline-none transition duration-300 ease-in-out focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none dark:text-neutral-200 dark:placeholder:text-neutral-200">
                      <input
                        type="search"
-                       class="relative m-0  border-slate-200  flex-auto  border border-solid  bg-slate-200 rounded-full px-3 py-1.5 text-base font-normal text- outline-none transition duration-300 ease-in-out focus:border-slate-200  focus:text-neutral-700   dark:text-neutral-200 dark:placeholder:text-neutral-200"        placeholder="Search Items..."
+                       class="relative m-0  border-slate-200  flex-auto  border border-solid  bg-slate-200 rounded-full px-3 py-1.5 text-base font-normal text- outline-none transition duration-300 ease-in-out focus:border-black  focus:text-black   dark:text-black placeholder:text-black"        placeholder="Search Items..."
                        />
                      <button
                       class="relative z-[4] flex items-center  bg-primary  font-large uppercase leading-tight  bg-blue-900 text-white w-10 rounded-full border shadow-md transition duration-150 ease-in-out hover:bg-primary-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-primary-800 active:shadow-lg"
